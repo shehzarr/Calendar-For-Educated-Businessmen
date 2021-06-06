@@ -12,4 +12,4 @@ and much more..
 
 # Pictures
 
-<B>FOR PICTURES SEE THE FIGURES.PDF FILE
+<B>FOR PICTURES SEE THE "main screen.pdf" FILE
